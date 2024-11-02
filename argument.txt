@@ -1,0 +1,10 @@
+score_target = 100
+max_game_time = 120
+initial_energy = 100
+energy_depletion_jump = 10
+energy_depletion_pull = 5
+min_jump_delay = 1
+max_jump_delay = 5
+min_pull_delay = 1
+max_pull_delay = 4
+
